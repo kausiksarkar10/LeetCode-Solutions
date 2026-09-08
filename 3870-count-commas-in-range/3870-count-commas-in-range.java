@@ -3,11 +3,8 @@ class Solution {
         if(n < 1000){
             return 0;
         }
-        int comma=0;
-        //int start=n- (n%10);
-        for(int i=1000;i<=n;i++){
-            comma++;
-        }
+        int comma=n-1000+1;
+
         return comma;
     }
 }

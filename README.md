@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0875-koko-eating-bananas](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

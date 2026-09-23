@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Merge Sort

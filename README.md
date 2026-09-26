@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

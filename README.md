@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

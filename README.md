@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |

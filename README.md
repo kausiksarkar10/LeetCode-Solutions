@@ -173,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

@@ -174,20 +174,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Newton's Method
 |  |
 | ------- |

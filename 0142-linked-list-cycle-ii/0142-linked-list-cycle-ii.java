@@ -24,10 +24,7 @@ public class Solution {
         if(fast==null || fast.next==null){
             return null;
         }
-        while(head!=null){
-            if(head==slow){
-                break;
-            }
+        while(head!=slow){
             head=head.next;
             slow=slow.next;
 

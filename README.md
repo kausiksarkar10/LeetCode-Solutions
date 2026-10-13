@@ -177,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -190,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |

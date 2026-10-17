@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

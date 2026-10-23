@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |

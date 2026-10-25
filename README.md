@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |

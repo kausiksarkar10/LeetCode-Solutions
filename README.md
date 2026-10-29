@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Binary Search
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |

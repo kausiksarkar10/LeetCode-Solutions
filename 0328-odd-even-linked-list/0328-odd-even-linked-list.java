@@ -13,8 +13,8 @@ class Solution {
         if(head==null){
             return null;
         }
-        ListNode dummy=new ListNode(0);
-        dummy.next=head;
+
+
         ListNode oddHead=head;
         ListNode evenHead=oddHead.next;
 
@@ -32,6 +32,6 @@ class Solution {
             }
         }
         oddHead.next=evenHeadpointer;
-        return dummy.next;
+        return head;
     }
 }

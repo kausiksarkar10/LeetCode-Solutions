@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Array
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |

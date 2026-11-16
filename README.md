@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0061-rotate-list) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |

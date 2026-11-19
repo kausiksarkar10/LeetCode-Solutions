@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
 | ------- |

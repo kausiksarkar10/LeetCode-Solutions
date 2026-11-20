@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |

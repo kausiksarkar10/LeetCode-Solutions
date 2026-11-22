@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Array
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0948-bag-of-tokens](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

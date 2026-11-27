@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/kausiksarkar10/Leetcode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
